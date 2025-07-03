@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [berkaykaynar.com.tr](https://berkaykaynar.com.tr)
 
 - 📫 How to reach me **berkay.kaynar65@gmail.com**
 
